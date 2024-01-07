@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveenkumarbhat
--  React Front-End Developer
+-  Web Developer - React | MERN
 
 <!---
 naveenkumarbhat/naveenkumarbhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
